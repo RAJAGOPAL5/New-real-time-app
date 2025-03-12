@@ -1,5 +1,5 @@
 {
-    "name": "hyring-assessment-real-time-drawing-app",
+    "name": "new-real-time-app",
     "version": "1.0.0",
     "scripts": {
       "start": "concurrently \"npm run start --prefix client\" \"npm run start --prefix server\"",
